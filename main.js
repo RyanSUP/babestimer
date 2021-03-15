@@ -57,10 +57,9 @@ function hideElements() {
 function getRandomQuote() {
 
 	let motivationalQuotes = [
-		"Kick ass, Babe!",
-		"All you have to be is yourself.",
-		"That was nothing. You got this!",
-		"Crack open a cold one. Celebrate",
+		"The Babes - kickin more ass!",
+		"Mmmm mah Babes.. more time for later!",
+		"Crack open a cold one!",
 		"IFUKINLUVU!"
 	];
 
