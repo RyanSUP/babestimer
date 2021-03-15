@@ -61,6 +61,7 @@ function getRandomQuote() {
 		"All you have to be is yourself.",
 		"That was nothing. You got this!",
 		"Crack open a cold one. Celebrate",
+		"Love ya!"
 	];
 
 	numberOfQuotes = motivationalQuotes.length;
